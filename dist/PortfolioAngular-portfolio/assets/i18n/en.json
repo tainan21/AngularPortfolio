@@ -3,12 +3,12 @@
     "Header.Item1" : "Sobre",
     "Header.Item2" : "Experiencia",
     "Header.Item3" : "Projetos",
-    "Header.Item4" : "Contato",
-    "Header.cvBtn" : "Resumo",
+    "Header.Item4" : "Mais Projetos",
+    "Header.cvBtn" : "",
 
     "Banner.Pretitle": "Olá, meu nome é",
     "Banner.Description": "Portfólio desenvolvido com Angular, bootstrap, Aos.",
-    "Banner.ActionBtn": "Get in touch",
+    "Banner.ActionBtn": "Saiba mais",
 
     "AboutMe.Title": "Sobre mim",
     "AboutMe.Paragraphs": [
@@ -85,7 +85,7 @@
                 "assets/images/integrafoods/integrafoods4.png",
                 "assets/images/integrafoods/integrafoods5.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["Javascript", "Tray", "SASS", "Tray Api", "Python"]
         },
         {
             "Title": "WillDash",
@@ -147,8 +147,8 @@
         }
     ],
     "Contact.Pretitle": "Portfólio desenvolvido em Angular",
-    "Contact.Title": "teste",
-    "Contact.Content": "Espero que possamos",
+    "Contact.Title": "Tainan Camargo",
+    "Contact.Content": "Espero que possamos trabalhar juntos e que tenha gostado do meu portfólio, se precisar de mais informações sobre os projetos, estou a disposição! :)",
     "Contact.Btn": "Whatsapp"
 
 
